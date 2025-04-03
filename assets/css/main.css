@@ -3081,11 +3081,11 @@
 			height: inherit;
 			left: 1.25em;
 			line-height: inherit;
-			margin: 5px;
+			margin: 0px;
 			padding: 0;
 			position: absolute;
 			top: 0;
-			font-size: 1.25em;
+			font-size: 1.5em;
 			text-decoration: none;
 		}
 
@@ -3097,7 +3097,7 @@
 			#header .logo + a {
 				/* font-size: 1em; Tamanho da fonte */
 				position: absolute;
-				left: 6em;
+				left: 5em;
 				margin-left: 10px;
 				color: rgb(0, 0, 0);
 			}
